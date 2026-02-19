@@ -79,8 +79,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=53ACFF" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasushant812&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=53ACFF" width="48%" />
 </p>
 
@@ -99,9 +98,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=53ACFF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=53ACFF&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!+🚀" alt="Thank You" />
 </p>
-
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
