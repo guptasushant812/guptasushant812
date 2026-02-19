@@ -79,9 +79,11 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=53ACFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasushant812&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=53ACFF" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guptasushant812&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptasushant812&theme=tokyonight&hide_border=true&background=0D1117&sideNums=53ACFF&stroke=53ACFF" width="48%" />
