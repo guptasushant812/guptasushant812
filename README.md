@@ -79,9 +79,9 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://guptasushant812-github-readme-stats.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://guptasushant812-github-readme-stats.vercel.app/api?username=guptasushant812&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
   
-  <img src="https://guptasushant812-github-readme-stats.vercel.app/api/top-langs/?username=guptasushant812&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!--  <img src="https://guptasushant812-github-readme-stats.vercel.app/api/top-langs/?username=guptasushant812&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" /> -->
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=53ACFF&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!+🚀" alt="Thank You" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=53ACFF&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting!+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
