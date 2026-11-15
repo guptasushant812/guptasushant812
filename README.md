@@ -1,3 +1,12 @@
+<!-- ==================== TOP ACCENT ==================== -->
+
+<p align="center">
+  <img
+    src="./assets/top-divider.gif"
+    width="100%"
+    alt="Animated blue divider"
+  />
+</p>
 
 <!-- ==================== SOCIAL LINKS ==================== -->
 
@@ -5,9 +14,11 @@
   <a href="mailto:guptasushant812@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/812guptasushant/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://guptasushantportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -19,8 +30,6 @@
     alt="Profile Views"
   />
 </p>
-
----
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -46,7 +55,7 @@ My development journey has given me hands-on experience building responsive webs
 
 I enjoy building practical solutions to real-world problems. Here are some of the projects I've worked on.
 
-### 1. [TasksManager](https://github.com/guptasushant812/TasksManager) <img src="https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat-square" alt="In Progress" />
+### 1. [TasksManager](https://github.com/guptasushant812/TasksManager)
 
 **Problem:** Managing tasks, tracking follow-ups, and maintaining accountability across teams can become difficult when information is scattered across different tools.
 
@@ -54,7 +63,15 @@ I enjoy building practical solutions to real-world problems. Here are some of th
 
 **Impact:** Helps teams organize their work, monitor pending activities, and maintain better visibility into task progress.
 
-🔗 [Live Demo](https://tasksmanagerweb.vercel.app/) · [Repository](https://github.com/guptasushant812/TasksManager)
+<p>
+  <a href="https://tasksmanagerweb.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0969DA?style=flat-square" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/guptasushant812/TasksManager">
+    <img src="https://img.shields.io/badge/💻_Repository-View-6E7781?style=flat-square" alt="Repository" />
+  </a>
+</p>
 
 ---
 
@@ -66,7 +83,11 @@ I enjoy building practical solutions to real-world problems. Here are some of th
 
 **Impact:** Brings multiple manufacturing operations together in one system, improving workflow coordination and business visibility.
 
-🔗 [Repository](https://github.com/guptasushant812/ERP-System)
+<p>
+  <a href="https://github.com/guptasushant812/ERP-System">
+    <img src="https://img.shields.io/badge/💻_Repository-View-6E7781?style=flat-square" alt="Repository" />
+  </a>
+</p>
 
 ---
 
@@ -78,7 +99,15 @@ I enjoy building practical solutions to real-world problems. Here are some of th
 
 **Impact:** Helps learners follow more structured learning paths with curated resources and progress tracking.
 
-🔗 [Live Demo](https://educationai-frontend.vercel.app/) · [Repository](https://github.com/guptasushant812/EduaAI-main)
+<p>
+  <a href="https://educationai-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0969DA?style=flat-square" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/guptasushant812/EduaAI-main">
+    <img src="https://img.shields.io/badge/💻_Repository-View-6E7781?style=flat-square" alt="Repository" />
+  </a>
+</p>
 
 ---
 
@@ -90,7 +119,15 @@ I enjoy building practical solutions to real-world problems. Here are some of th
 
 **Impact:** Makes space-related information more engaging and visually accessible through interactive web experiences.
 
-🔗 [Live Demo](https://codebuddies-antarishk.vercel.app/) · [Repository](https://github.com/guptasushant812/CodeBuddies-ANTARISHK)
+<p>
+  <a href="https://codebuddies-antarishk.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0969DA?style=flat-square" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/guptasushant812/CodeBuddies-ANTARISHK">
+    <img src="https://img.shields.io/badge/💻_Repository-View-6E7781?style=flat-square" alt="Repository" />
+  </a>
+</p>
 
 ---
 
@@ -102,10 +139,17 @@ I enjoy building practical solutions to real-world problems. Here are some of th
 
 **Impact:** Demonstrates how interactive design and 3D web technologies can create more engaging digital product presentations.
 
-🔗 [Live Demo](https://productlaunchindia.vercel.app/) · [Repository](https://github.com/guptasushant812/ProductLaunch)
+<p>
+  <a href="https://productlaunchindia.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-0969DA?style=flat-square" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/guptasushant812/ProductLaunch">
+    <img src="https://img.shields.io/badge/💻_Repository-View-6E7781?style=flat-square" alt="Repository" />
+  </a>
+</p>
 
 ---
-
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -239,3 +283,4 @@ I enjoy building practical solutions to real-world problems. Here are some of th
   <br />
   — <strong>Sushant Gupta</strong>
 </p>
+
