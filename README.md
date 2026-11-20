@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=guptasushant812&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=guptasushant812&label=PROFILE%20VIEWS&color=6D0EA1&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
